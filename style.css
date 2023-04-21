@@ -1,0 +1,37 @@
+/* Navigation styles */
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.jumbotron {
+background-image: url("images/Screen\ Shot\ 2023-04-21\ at\ 10.42.13\ AM\ Small.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position:center;
+height: 80vh;
+color: black;
+text-align: center;
+}
+
+
+.container {
+ text-align: center;
+ font-size: large;
+ color: black;
+ background-color: beige;
+}
+
+
+.footer {
+    display: flex;
+    background-color: beige;
+    font-size: 17px;
+    color: bl;
+    margin: 0%;
+    padding: 0%;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
